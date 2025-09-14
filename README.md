@@ -51,8 +51,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📌 Pinned Projects
-- 🧑‍💻 [Jutge.org Solutions](https://github.com/reskoldo73/jutge-solutions)  
-- 🌐 [Personal Portfolio](https://github.com/reskoldo73/portfolio)  
+- 🌐 [Personal Portfolio](https://github.com/reskoldo73/portfolio)
 
 ---
 
