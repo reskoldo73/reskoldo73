@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/luis-de-carlos/)  
 - [Portfolio Website](https://reskoldo73.github.io)
-- [email](reskoldo73@gmail.com)
+- [Email me](mailto:reskoldo73@gmail.com)
+
 
 ---
 
