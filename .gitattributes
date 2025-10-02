@@ -1,7 +1,18 @@
 #Ignore Jupyter notebooks
 *.ipynb linguist-vendored
+*.ipynb linguist-detectable=false
+
 #Ignore Markdown (READMEs, docs, ...) 
 *.md linguist-vendored
+*.md linguist-detectable=false
+
 #Ignore CSV datasets
 *.csv linguist-vendored
+*.csv linguist-detectable=false
+
+#Ignore JSON datasets
+*.json linguist-vendored
+*.json linguist-detectable=false
+
+
 
