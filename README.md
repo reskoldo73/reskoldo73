@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **reskoldo73/reskoldo73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Luis de Carlos (reskoldo73)
+# 👋 Hey, I'm Luis de Carlos García (reskoldo73)
 
-🎓 Double Major in **Mathematics & Computer Engineering**  
+🎓 Double Major in **Mathematics & Informatics Engineering**  
 💻 Learning **C++**, **Python**, and soon **Java, C, CSS, html, JavaScript**  
 
 
@@ -59,5 +57,5 @@ Here are some ideas to get you started:
 
 ---
 
-✨ *Thanks for visiting my profile!* 🚀
+*Thanks for visiting my profile!* 
 
