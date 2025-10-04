@@ -1,18 +1,13 @@
-#Ignore Jupyter notebooks
-*.ipynb linguist-vendored
+# Exclude Jupyter notebooks from language stats
 *.ipynb linguist-detectable=false
 
-#Ignore Markdown (READMEs, docs, ...) 
-*.md linguist-vendored
+# Exclude Markdown files from language stats (e.g., READMEs, documentation)
 *.md linguist-detectable=false
 
-#Ignore CSV datasets
-*.csv linguist-vendored
+# Exclude CSV datasets from language stats
 *.csv linguist-detectable=false
 
-#Ignore JSON datasets
-*.json linguist-vendored
+# Exclude JSON datasets from language stats
 *.json linguist-detectable=false
-
 
 
