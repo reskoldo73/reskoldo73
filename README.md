@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## ⚡ GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reskoldo73&layout=compact&theme=graywhite)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reskoldo73&show_icons=true&theme=graywhite)  
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reskoldo73&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)  
 
 ---
 
